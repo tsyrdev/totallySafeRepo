@@ -1,3 +1,3 @@
 [submodule "sub"]
 	path = "sub"
-	url = /home/tsyr/dev/testing/evilSubmod
+	url = git@github:tsyrdev/evilSubmod.git
