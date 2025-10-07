@@ -1,3 +1,3 @@
 [submodule "sub"]
 	path = "sub"
-	url = git@github:tsyrdev/evilSubmod.git
+	url = git@github.com:tsyrdev/evilSubmod.git
